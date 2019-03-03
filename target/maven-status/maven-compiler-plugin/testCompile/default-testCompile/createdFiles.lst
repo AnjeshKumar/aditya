@@ -1,0 +1,6 @@
+booksearch\test\FindBookByAuthorTitle.class
+booksearch\test\CreateBookTableTest.class
+booksearch\test\AttributeToObjectTest.class
+booksearch\test\BookTableWriteReadTest.class
+booksearch\test\FindBookByTitleTest.class
+booksearch\test\FindBookByAuthorTest.class

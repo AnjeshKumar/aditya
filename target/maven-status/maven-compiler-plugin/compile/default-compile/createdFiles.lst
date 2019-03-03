@@ -1,0 +1,14 @@
+booksearch\dynamodb\DynamoDBUtil.class
+booksearch\BookSearchApplication.class
+booksearch\dynamodb\IDynamoDBKeys.class
+booksearch\service\BookTableService.class
+booksearch\dynamodb\CreateTableBase.class
+booksearch\model\BookInfoComparator.class
+booksearch\controller\BookControllerBase.class
+booksearch\model\GenreEnum.class
+booksearch\model\BookInfo.class
+booksearch\controller\BookSearchController.class
+booksearch\controller\IndexController.class
+booksearch\controller\AddBookController.class
+booksearch\dynamodb\CreateBookTable.class
+booksearch\service\DynamoDBService.class

@@ -33,8 +33,8 @@ import com.amazonaws.regions.Regions;
  * @author Ian Kaplan, iank@bearcave.com
  */
 public interface IDynamoDBKeys {
-    final static String full_dynamodb_access_ID = "AKIAIM45VKVYC6SZWXCQ";
-    final static String full_dynamodb_access_KEY = "yUsUtL1V5U4+YDXYrEXMhXUwjMrDHwp+VkxuUxLG";
+    final static String full_dynamodb_access_ID = "";
+    final static String full_dynamodb_access_KEY = "";
     
     // The AWS region for the DynamoDB instance.
     // Frankfurt Germany
